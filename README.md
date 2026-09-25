@@ -96,6 +96,7 @@ Combines multimodal ingestion, clip/frame retrieval, reranking, spatial verifica
 **[🚀 View Repository →](https://github.com/Bashar-1216/spatio-temporal-video-rag)**
 
 </td>
+
 <td width="33%" valign="top">
 
 ### 🌐 #2 GEO Platform
@@ -110,6 +111,7 @@ Entity resolution, hallucination verification, prompt versioning, drift monitori
 **[🚀 View Repository →](https://github.com/Bashar-1216/AI-Discovery-Monitor-GEO-Platform)**
 
 </td>
+
 <td width="33%" valign="top">
 
 ### 📦 #3 Smart Amazon Product Analyzer
@@ -120,6 +122,8 @@ Entity resolution, hallucination verification, prompt versioning, drift monitori
 `FastAPI` `Celery` `TimescaleDB`
 
 Demand forecasting, review intelligence, FBA financial logic, automated decision rules, and distributed services.
+
+**🔒 Private Repository**
 
 </td>
 </tr>
@@ -138,6 +142,7 @@ Semantic risk classification and policy-based routing for AI requests.
 **[Repository →](https://github.com/Bashar-1216/Classifiers-)**
 
 </td>
+
 <td width="33%" valign="top">
 
 ### 🎧 SawtShield
@@ -149,6 +154,7 @@ AI-generated speech detection using deep learning and spectro-temporal features.
 **[Repository →](https://github.com/Bashar-1216/SawtShield)**
 
 </td>
+
 <td width="33%" valign="top">
 
 ### 🔍 Fake Review Detection
@@ -189,31 +195,23 @@ Transformer-based fake-review detection with domain-adversarial learning.
 - 🐳 Production integration with Python, REST APIs, Docker & LLM services
 
 </td>
+
 <td width="35%" valign="top">
 
 ## 🏅 Certifications
 
-**✦ Claude 101** — Anthropic · Jun 2026
+**✦ Claude 101**  
+Anthropic · Jun 2026
 
-**✦ Introduction to Agent Skills** — Anthropic · Jul 2026
+**✦ Introduction to Agent Skills**  
+Anthropic · Jul 2026
 
-**✦ Introduction to Generative AI** — Google · Jun 2026
+**✦ Introduction to Generative AI**  
+Google · Jun 2026
 
 </td>
 </tr>
 </table>
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Bashar-1216&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bashar-1216&layout=compact&hide_border=true&theme=transparent&langs_count=6" />
-
-</div>
 
 ---
 
