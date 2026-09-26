@@ -36,17 +36,25 @@
   </tr>
 </table>
 
-<h2>⚙️ Tech Stack <sub><sup>LLM &amp; Generative AI engineering toolkit</sup></sub></h2>
+<h2>⚙️ Tech Stack</h2>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,pytorch,tensorflow,fastapi,react,nextjs,docker,postgres,redis,mongodb,qdrant,elasticsearch,linux,git&amp;perline=15" alt="Python, TypeScript, PyTorch, TensorFlow, FastAPI, React, Next.js, Docker, PostgreSQL, Redis, MongoDB, Qdrant, Elasticsearch, Linux, and Git" height="52" />
+<p align="center" style="font-size:0;white-space:nowrap;overflow-x:auto">
+  <span style="display:inline-block;width:6.66%;min-width:0;text-align:center;vertical-align:top;font-size:10px;white-space:nowrap"><img src="https://skillicons.dev/icons?i=python" width="30" height="30" alt="Python" /><br/><sub>Python</sub></span>
+  <span style="display:inline-block;width:6.66%;min-width:0;text-align:center;vertical-align:top;font-size:10px;white-space:nowrap"><img src="https://skillicons.dev/icons?i=ts" width="30" height="30" alt="TypeScript" /><br/><sub>TypeScript</sub></span>
+  <span style="display:inline-block;width:6.66%;min-width:0;text-align:center;vertical-align:top;font-size:10px;white-space:nowrap"><img src="https://skillicons.dev/icons?i=pytorch" width="30" height="30" alt="PyTorch" /><br/><sub>PyTorch</sub></span>
+  <span style="display:inline-block;width:6.66%;min-width:0;text-align:center;vertical-align:top;font-size:10px;white-space:nowrap"><img src="https://skillicons.dev/icons?i=tensorflow" width="30" height="30" alt="TensorFlow" /><br/><sub>TensorFlow</sub></span>
+  <span style="display:inline-block;width:6.66%;min-width:0;text-align:center;vertical-align:top;font-size:10px;white-space:nowrap"><img src="https://skillicons.dev/icons?i=fastapi" width="30" height="30" alt="FastAPI" /><br/><sub>FastAPI</sub></span>
+  <span style="display:inline-block;width:6.66%;min-width:0;text-align:center;vertical-align:top;font-size:10px;white-space:nowrap"><img src="https://skillicons.dev/icons?i=react" width="30" height="30" alt="React" /><br/><sub>React</sub></span>
+  <span style="display:inline-block;width:6.66%;min-width:0;text-align:center;vertical-align:top;font-size:10px;white-space:nowrap"><img src="https://skillicons.dev/icons?i=nextjs" width="30" height="30" alt="Next.js" /><br/><sub>Next.js</sub></span>
+  <span style="display:inline-block;width:6.66%;min-width:0;text-align:center;vertical-align:top;font-size:10px;white-space:nowrap"><img src="https://skillicons.dev/icons?i=docker" width="30" height="30" alt="Docker" /><br/><sub>Docker</sub></span>
+  <span style="display:inline-block;width:6.66%;min-width:0;text-align:center;vertical-align:top;font-size:10px;white-space:nowrap"><img src="https://skillicons.dev/icons?i=postgres" width="30" height="30" alt="PostgreSQL" /><br/><sub>PostgreSQL</sub></span>
+  <span style="display:inline-block;width:6.66%;min-width:0;text-align:center;vertical-align:top;font-size:10px;white-space:nowrap"><img src="https://skillicons.dev/icons?i=redis" width="30" height="30" alt="Redis" /><br/><sub>Redis</sub></span>
+  <span style="display:inline-block;width:6.66%;min-width:0;text-align:center;vertical-align:top;font-size:10px;white-space:nowrap"><img src="https://skillicons.dev/icons?i=mongodb" width="30" height="30" alt="MongoDB" /><br/><sub>MongoDB</sub></span>
+  <span style="display:inline-block;width:6.66%;min-width:0;text-align:center;vertical-align:top;font-size:10px;white-space:nowrap"><img src="./assets/icons/qdrant.svg" width="30" height="30" alt="Qdrant" /><br/><sub>Qdrant</sub></span>
+  <span style="display:inline-block;width:6.66%;min-width:0;text-align:center;vertical-align:top;font-size:10px;white-space:nowrap"><img src="https://skillicons.dev/icons?i=elasticsearch" width="30" height="30" alt="Elasticsearch" /><br/><sub>Elasticsearch</sub></span>
+  <span style="display:inline-block;width:6.66%;min-width:0;text-align:center;vertical-align:top;font-size:10px;white-space:nowrap"><img src="https://skillicons.dev/icons?i=linux" width="30" height="30" alt="Linux" /><br/><sub>Linux</sub></span>
+  <span style="display:inline-block;width:6.66%;min-width:0;text-align:center;vertical-align:top;font-size:10px;white-space:nowrap"><img src="https://skillicons.dev/icons?i=git" width="30" height="30" alt="Git" /><br/><sub>Git</sub></span>
 </p>
-
-<p align="center"><sub>Python · TypeScript · PyTorch · TensorFlow · FastAPI · React · Next.js · Docker · PostgreSQL · Redis · MongoDB · Qdrant · Elasticsearch · Linux · Git</sub></p>
-
-<p><strong>◈ LLM &amp; AI:</strong> OpenAI · Claude · Gemini · LLaMA · Ollama · LangChain · LiteLLM · RAG · AI Agents · Prompt Engineering · Transformers · BERT · RoBERTa</p>
-
-<p><strong>◌ Data &amp; MLOps:</strong> Qdrant · pgvector · Langfuse · Kafka · PySpark · Celery · BullMQ · TimescaleDB · Scikit-learn · LightGBM · NestJS · REST APIs</p>
 
 <h2 id="featured-projects">▰ Featured Projects <sub><sup><a href="https://github.com/BXR7?tab=repositories">View all repositories →</a></sup></sub></h2>
 
