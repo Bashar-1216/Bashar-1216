@@ -20,15 +20,13 @@
     <td width="68%" valign="top">
       <h2 id="about-me">◉ About Me</h2>
       <p>I’m an <strong>LLM Engineer</strong> focused on designing reliable generative-AI systems, multi-model orchestration, retrieval-augmented generation, agentic systems, evaluation, observability, and production deployment. I enjoy building AI systems that solve real problems, with a strong interest in Arabic NLP, multimodal AI, structured generation, and AI infrastructure.</p>
-      <table>
-        <tr>
-          <td align="center"><strong>💡</strong><br/><sub>Problem<br/>Solver</sub></td>
-          <td align="center"><strong>🚀</strong><br/><sub>Build<br/>&amp; Ship</sub></td>
-          <td align="center"><strong>🤝</strong><br/><sub>Open to<br/>Opportunities</sub></td>
-          <td align="center"><strong>📘</strong><br/><sub>Continuous<br/>Learner</sub></td>
-          <td align="center"><strong>🎯</strong><br/><sub>Real<br/>Impact</sub></td>
-        </tr>
-      </table>
+      <div align="center">
+        <span><strong>💡 Problem Solver</strong><br/><sub>Turns problems into useful systems</sub></span>&nbsp;&nbsp;&nbsp;
+        <span><strong>🚀 Build &amp; Ship</strong><br/><sub>From experiment to integration</sub></span>&nbsp;&nbsp;&nbsp;
+        <span><strong>🤝 Open to Opportunities</strong><br/><sub>LLMs, RAG, agents, multimodal AI</sub></span>&nbsp;&nbsp;&nbsp;
+        <span><strong>📘 Continuous Learner</strong><br/><sub>Evaluation and reliable AI</sub></span>&nbsp;&nbsp;&nbsp;
+        <span><strong>🎯 Real Impact</strong><br/><sub>Practical systems over hype</sub></span>
+      </div>
     </td>
     <td width="32%" valign="top">
       <h2>◈ Snapshot</h2>
@@ -67,19 +65,19 @@
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3><img src="https://img.shields.io/badge/-5d78ff?style=flat-square&logo=youtube&logoColor=white" alt="Video" /> <a href="https://github.com/BXR7/spatio-temporal-video-rag">Spatio-Temporal Multimodal Video RAG</a></h3>
+      <h3><img src="./assets/icons/video-rag.svg" width="32" height="32" alt="Video RAG" /> <a href="https://github.com/BXR7/spatio-temporal-video-rag">Spatio-Temporal Multimodal Video RAG</a></h3>
       <p>End-to-end multimodal video moment retrieval across vision, speech, OCR, space, and time.</p>
       <sub>Whisper · Qwen2.5-VL · BGE-M3 · Qdrant · FastAPI</sub><br/><br/>
       <a href="https://github.com/BXR7/spatio-temporal-video-rag">View repository →</a>
     </td>
     <td width="33%" valign="top">
-      <h3><img src="https://img.shields.io/badge/-695df8?style=flat-square&logo=google&logoColor=white" alt="Discovery" /> <a href="https://github.com/BXR7/AI-Discovery-Monitor-GEO-Platform">GEO Platform</a></h3>
+      <h3><img src="./assets/icons/geo.svg" width="32" height="32" alt="GEO Platform" /> <a href="https://github.com/BXR7/AI-Discovery-Monitor-GEO-Platform">GEO Platform</a></h3>
       <p>Multi-model AI discovery and visibility monitoring with citations and share of voice.</p>
       <sub>OpenAI · Claude · Gemini · LangChain · PostgreSQL · Redis</sub><br/><br/>
       <a href="https://github.com/BXR7/AI-Discovery-Monitor-GEO-Platform">View repository →</a>
     </td>
     <td width="33%" valign="top">
-      <h3><img src="https://img.shields.io/badge/-ffb43f?style=flat-square&logo=amazon&logoColor=white" alt="Private product" /> Smart Amazon Product Analyzer</h3>
+      <h3><img src="./assets/icons/sapa.svg" width="32" height="32" alt="SAPA" /> Smart Amazon Product Analyzer</h3>
       <p>ML-powered product intelligence combining forecasting, NLP, competitive analysis, and finance.</p>
       <sub>SAPA · Private project · Repository not public</sub><br/><br/>
       <strong>Private repository</strong>
@@ -87,19 +85,19 @@
   </tr>
   <tr>
     <td width="33%" valign="top">
-      <h3><img src="https://img.shields.io/badge/-5d78ff?style=flat-square&logo=shield&logoColor=white" alt="Security" /> <a href="https://github.com/BXR7/ai-risk-assessment-gateway">AI Risk Assessment Gateway</a></h3>
+      <h3><img src="./assets/icons/risk-gateway.svg" width="32" height="32" alt="Risk gateway" /> <a href="https://github.com/BXR7/ai-risk-assessment-gateway">AI Risk Assessment Gateway</a></h3>
       <p>Semantic risk classification and policy-based routing for AI requests.</p>
       <sub>Python · FastAPI · AI Security</sub><br/><br/>
       <a href="https://github.com/BXR7/ai-risk-assessment-gateway">View repository →</a>
     </td>
     <td width="33%" valign="top">
-      <h3><img src="https://img.shields.io/badge/-ed69cf?style=flat-square&logo=sonos&logoColor=white" alt="Audio" /> <a href="https://github.com/BXR7/SawtShield">SawtShield</a></h3>
+      <h3><img src="./assets/icons/sawtshield.svg" width="32" height="32" alt="Audio waveform" /> <a href="https://github.com/BXR7/SawtShield">SawtShield</a></h3>
       <p>Speech-only audio deepfake detection with an AASIST-inspired architecture.</p>
       <sub>AASIST · PyTorch · Audio ML · FastAPI</sub><br/><br/>
       <a href="https://github.com/BXR7/SawtShield">View repository →</a>
     </td>
     <td width="33%" valign="top">
-      <h3><img src="https://img.shields.io/badge/-28cfff?style=flat-square&logo=googledocs&logoColor=white" alt="NLP" /> <a href="https://github.com/BXR7/Fake-Review-Detection">Fake Review Detection</a></h3>
+      <h3><img src="./assets/icons/fake-review.svg" width="32" height="32" alt="Review detection" /> <a href="https://github.com/BXR7/Fake-Review-Detection">Fake Review Detection</a></h3>
       <p>RoBERTa-based fake-review detection with domain-adversarial training and linguistic features.</p>
       <sub>Transformers · RoBERTa · NLP · FastAPI</sub><br/><br/>
       <a href="https://github.com/BXR7/Fake-Review-Detection">View repository →</a>
