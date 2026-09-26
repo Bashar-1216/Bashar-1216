@@ -60,18 +60,25 @@ Multi-model routing · evaluation · AI security · memory architectures · prod
 
 ## 🗂️ Featured Projects
 
-The project cards follow the reference composition: strong color accents, distinct icons, concise value propositions, and a 3×2 visual grid. Repository links remain available in the table below for reliable navigation.
+The project area now follows the reference structure: **three primary cards** first, followed by **three open-source cards**. The private SAPA project is represented without exposing a repository link.
 
-<img src="./assets/projects-grid.svg" alt="Six featured project cards: Spatio-Temporal Video RAG, GEO Platform, AI Risk Gateway, SawtShield, Fake Review Detection, and Financial Fraud Detection" width="100%" />
+<img src="./assets/projects-top.svg" alt="Top project row: Spatio-Temporal Multimodal Video RAG, GEO Platform, and private Smart Amazon Product Analyzer" width="100%" />
 
-| Project | Focus | Repository |
-|:---|:---|:---|
-| **Spatio-Temporal Multimodal Video RAG** | Vision, speech, OCR, spatial grounding, and temporal reasoning | [Open repository →](https://github.com/Bashar-1216/spatio-temporal-video-rag) |
-| **AI Discovery Monitor / GEO Platform** | AI visibility monitoring, citations, sentiment, and share of voice | [Open repository →](https://github.com/Bashar-1216/AI-Discovery-Monitor-GEO-Platform) |
-| **AI Risk Assessment Gateway** | Semantic intent, context, metadata, policy routing, and fail-closed isolation | [Open repository →](https://github.com/Bashar-1216/Classifiers-) |
-| **SawtShield** | Speech-only audio deepfake detection with an AASIST-inspired architecture | [Open repository →](https://github.com/Bashar-1216/SawtShield) |
-| **Fake Review Detection** | RoBERTa, domain-adversarial training, linguistic features, and FastAPI | [Open repository →](https://github.com/Bashar-1216/Fake-Review-Detection) |
-| **Financial Fraud Detection** | PySpark, Kafka, MongoDB, feature engineering, and real-time processing | [Open repository →](https://github.com/Bashar-1216/Financial-Fraud-Detection) |
+| Project | Repository |
+|:---|:---|
+| Spatio-Temporal Multimodal Video RAG | [View repository →](https://github.com/Bashar-1216/spatio-temporal-video-rag) |
+| AI Discovery Monitor / GEO Platform | [View repository →](https://github.com/Bashar-1216/AI-Discovery-Monitor-GEO-Platform) |
+| Smart Amazon Product Analyzer / SAPA | Private — no public source link |
+
+<img src="./assets/projects-bottom.svg" alt="Bottom project row: AI Risk Assessment Gateway, SawtShield, and Fake Review Detection" width="100%" />
+
+| Project | Repository |
+|:---|:---|
+| AI Risk Assessment Gateway | [View repository →](https://github.com/Bashar-1216/Classifiers-) |
+| SawtShield | [View repository →](https://github.com/Bashar-1216/SawtShield) |
+| Fake Review Detection | [View repository →](https://github.com/Bashar-1216/Fake-Review-Detection) |
+
+**Additional public work:** [Financial Fraud Detection →](https://github.com/Bashar-1216/Financial-Fraud-Detection)
 
 [Explore all public repositories →](https://github.com/Bashar-1216?tab=repositories)
 
@@ -113,14 +120,34 @@ Google · Jun 2026
 </tr>
 </table>
 
-## ✈️ Let’s Connect
+## 📊 Focus & Connect
+
+<table>
+<tr>
+<td width="66%" valign="top">
+
+### Current Focus
+
+`LLM orchestration` · `RAG` · `AI agents` · `Multimodal retrieval`<br />
+`Evaluation` · `Observability` · `Arabic NLP` · `Production reliability`
+
+</td>
+<td width="34%" valign="top">
+
+### ✈️ Let’s Connect
 
 I’m interested in opportunities involving **LLM systems, RAG, AI agents, multimodal applications, evaluation, and production AI infrastructure**.
 
+[▣ LinkedIn](https://linkedin.com/in/bashar-almuntaser)<br />
+[✉ Email](mailto:almuntaserbashar@gmail.com)<br />
+[◉ GitHub](https://github.com/Bashar-1216)
+
+</td>
+</tr>
+</table>
+
 <div align="center">
 
-[▣ LinkedIn](https://linkedin.com/in/bashar-almuntaser) · [✉ Email](mailto:almuntaserbashar@gmail.com) · [◉ GitHub](https://github.com/Bashar-1216)
-
-`LLM Engineering` · `RAG` · `AI Agents` · `Multimodal AI` · `AI Infrastructure`
+> “Building AI systems that are not only intelligent — but observable, testable, and reliable.”
 
 </div>
