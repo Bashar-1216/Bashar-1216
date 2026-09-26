@@ -20,13 +20,9 @@
     <td width="68%" valign="top">
       <h2 id="about-me">◉ About Me</h2>
       <p>I’m an <strong>LLM Engineer</strong> focused on designing reliable generative-AI systems, multi-model orchestration, retrieval-augmented generation, agentic systems, evaluation, observability, and production deployment. I enjoy building AI systems that solve real problems, with a strong interest in Arabic NLP, multimodal AI, structured generation, and AI infrastructure.</p>
-      <div align="center">
-        <span><strong>💡 Problem Solver</strong><br/><sub>Turns problems into useful systems</sub></span>&nbsp;&nbsp;&nbsp;
-        <span><strong>🚀 Build &amp; Ship</strong><br/><sub>From experiment to integration</sub></span>&nbsp;&nbsp;&nbsp;
-        <span><strong>🤝 Open to Opportunities</strong><br/><sub>LLMs, RAG, agents, multimodal AI</sub></span>&nbsp;&nbsp;&nbsp;
-        <span><strong>📘 Continuous Learner</strong><br/><sub>Evaluation and reliable AI</sub></span>&nbsp;&nbsp;&nbsp;
-        <span><strong>🎯 Real Impact</strong><br/><sub>Practical systems over hype</sub></span>
-      </div>
+      <p align="center">
+        <img src="./assets/about-traits.svg" alt="Problem Solver · Build &amp; Ship · Open to Opportunities · Continuous Learner · Real Impact" width="100%" />
+      </p>
     </td>
     <td width="32%" valign="top">
       <h2>◈ Snapshot</h2>
