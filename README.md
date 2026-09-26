@@ -36,66 +36,17 @@
   </tr>
 </table>
 
-<h2>⚙️ Technical Stack <sub><sup>LLM &amp; Generative AI engineering toolkit</sup></sub></h2>
+<h2>⚙️ Tech Stack <sub><sup>LLM &amp; Generative AI engineering toolkit</sup></sub></h2>
 
-<h3>🤖 LLM &amp; Generative AI</h3>
-<p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Anthropic%20%2F%20Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic and Claude" />
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/LLaMA-0467DF?style=flat-square&logo=meta&logoColor=white" alt="LLaMA" />
-  <img src="https://img.shields.io/badge/Ollama-111111?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LiteLLM-5B4BDB?style=flat-square&logoColor=white" alt="LiteLLM" />
-  <img src="https://img.shields.io/badge/RAG-0B7285?style=flat-square&logoColor=white" alt="Retrieval Augmented Generation" />
-  <img src="https://img.shields.io/badge/AI%20Agents-9C36B5?style=flat-square&logoColor=white" alt="AI Agents" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-6F42C1?style=flat-square&logoColor=white" alt="Prompt Engineering" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,pytorch,tensorflow,fastapi,react,nextjs,docker,postgres,redis,mongodb,qdrant,elasticsearch,linux,git&amp;perline=15" alt="Python, TypeScript, PyTorch, TensorFlow, FastAPI, React, Next.js, Docker, PostgreSQL, Redis, MongoDB, Qdrant, Elasticsearch, Linux, and Git" height="52" />
 </p>
 
-<h3>🧠 ML / Deep Learning</h3>
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=111111" alt="Transformers" />
-  <img src="https://img.shields.io/badge/BERT-4B6CB7?style=flat-square&logoColor=white" alt="BERT" />
-  <img src="https://img.shields.io/badge/RoBERTa-3B82F6?style=flat-square&logoColor=white" alt="RoBERTa" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/LightGBM-2E7D32?style=flat-square&logoColor=white" alt="LightGBM" />
-</p>
+<p align="center"><sub>Python · TypeScript · PyTorch · TensorFlow · FastAPI · React · Next.js · Docker · PostgreSQL · Redis · MongoDB · Qdrant · Elasticsearch · Linux · Git</sub></p>
 
-<h3>⚙️ Backend &amp; AI Infrastructure</h3>
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" alt="Celery" />
-  <img src="https://img.shields.io/badge/BullMQ-CB3837?style=flat-square&logoColor=white" alt="BullMQ" />
-  <img src="https://img.shields.io/badge/REST%20APIs-0B7285?style=flat-square&logoColor=white" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=071021" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-</p>
+<p><strong>◈ LLM &amp; AI:</strong> OpenAI · Claude · Gemini · LLaMA · Ollama · LangChain · LiteLLM · RAG · AI Agents · Prompt Engineering · Transformers · BERT · RoBERTa</p>
 
-<h3>🔎 Retrieval, Data &amp; Observability</h3>
-<p>
-  <img src="https://img.shields.io/badge/Qdrant-FF4F64?style=flat-square&logoColor=white" alt="Qdrant" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white" alt="pgvector" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
-  <img src="https://img.shields.io/badge/TimescaleDB-FDB515?style=flat-square&logo=timescale&logoColor=111111" alt="TimescaleDB" />
-  <img src="https://img.shields.io/badge/Langfuse-111827?style=flat-square&logoColor=white" alt="Langfuse" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" alt="Kafka" />
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark" />
-</p>
-
-<h3>🌐 Frontend</h3>
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-</p>
+<p><strong>◌ Data &amp; MLOps:</strong> Qdrant · pgvector · Langfuse · Kafka · PySpark · Celery · BullMQ · TimescaleDB · Scikit-learn · LightGBM · NestJS · REST APIs</p>
 
 <h2 id="featured-projects">▰ Featured Projects <sub><sup><a href="https://github.com/BXR7?tab=repositories">View all repositories →</a></sup></sub></h2>
 
