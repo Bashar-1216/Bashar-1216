@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" alt="Bashar Al-Muntaser — LLM Engineer" width="100%" />
+<img src="./assets/hero-final.png" alt="Bashar Al-Muntaser — LLM Engineer at a glowing AI workstation" width="100%" />
 
 [GitHub](https://github.com/Bashar-1216) · [LinkedIn](https://linkedin.com/in/bashar-almuntaser) · [Email](mailto:almuntaserbashar@gmail.com)
 
