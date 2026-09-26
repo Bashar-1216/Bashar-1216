@@ -58,48 +58,53 @@
 
 <h2 id="featured-projects">▰ Featured Projects <sub><sup><a href="https://github.com/BXR7?tab=repositories">View all repositories →</a></sup></sub></h2>
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3><img src="./assets/icons/video-rag.svg" width="32" height="32" alt="Video RAG" /> <a href="https://github.com/BXR7/spatio-temporal-video-rag">Spatio-Temporal Multimodal Video RAG</a></h3>
-      <p>End-to-end multimodal video moment retrieval across vision, speech, OCR, space, and time.</p>
-      <sub>Whisper · Qwen2.5-VL · BGE-M3 · Qdrant · FastAPI</sub><br/><br/>
-      <a href="https://github.com/BXR7/spatio-temporal-video-rag">View repository →</a>
-    </td>
-    <td width="33%" valign="top">
-      <h3><img src="./assets/icons/geo.svg" width="32" height="32" alt="GEO Platform" /> <a href="https://github.com/BXR7/AI-Discovery-Monitor-GEO-Platform">GEO Platform</a></h3>
-      <p>Multi-model AI discovery and visibility monitoring with citations and share of voice.</p>
-      <sub>OpenAI · Claude · Gemini · LangChain · PostgreSQL · Redis</sub><br/><br/>
-      <a href="https://github.com/BXR7/AI-Discovery-Monitor-GEO-Platform">View repository →</a>
-    </td>
-    <td width="33%" valign="top">
-      <h3><img src="./assets/icons/sapa.svg" width="32" height="32" alt="SAPA" /> Smart Amazon Product Analyzer</h3>
-      <p>ML-powered product intelligence combining forecasting, NLP, competitive analysis, and finance.</p>
-      <sub>SAPA · Private project · Repository not public</sub><br/><br/>
-      <strong>Private repository</strong>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <h3><img src="./assets/icons/risk-gateway.svg" width="32" height="32" alt="Risk gateway" /> <a href="https://github.com/BXR7/ai-risk-assessment-gateway">AI Risk Assessment Gateway</a></h3>
-      <p>Semantic risk classification and policy-based routing for AI requests.</p>
-      <sub>Python · FastAPI · AI Security</sub><br/><br/>
-      <a href="https://github.com/BXR7/ai-risk-assessment-gateway">View repository →</a>
-    </td>
-    <td width="33%" valign="top">
-      <h3><img src="./assets/icons/sawtshield.svg" width="32" height="32" alt="Audio waveform" /> <a href="https://github.com/BXR7/SawtShield">SawtShield</a></h3>
-      <p>Speech-only audio deepfake detection with an AASIST-inspired architecture.</p>
-      <sub>AASIST · PyTorch · Audio ML · FastAPI</sub><br/><br/>
-      <a href="https://github.com/BXR7/SawtShield">View repository →</a>
-    </td>
-    <td width="33%" valign="top">
-      <h3><img src="./assets/icons/fake-review.svg" width="32" height="32" alt="Review detection" /> <a href="https://github.com/BXR7/Fake-Review-Detection">Fake Review Detection</a></h3>
-      <p>RoBERTa-based fake-review detection with domain-adversarial training and linguistic features.</p>
-      <sub>Transformers · RoBERTa · NLP · FastAPI</sub><br/><br/>
-      <a href="https://github.com/BXR7/Fake-Review-Detection">View repository →</a>
-    </td>
-  </tr>
-</table>
+### <img src="./assets/icons/video-rag.svg" width="32" height="32" alt="Video RAG" /> [Spatio-Temporal Multimodal Video RAG](https://github.com/BXR7/spatio-temporal-video-rag)
+
+End-to-end multimodal video moment retrieval across vision, speech, OCR, space, and time.
+
+<sub>Whisper · Qwen2.5-VL · BGE-M3 · Qdrant · FastAPI</sub>
+
+[View repository →](https://github.com/BXR7/spatio-temporal-video-rag)
+
+### <img src="./assets/icons/geo.svg" width="32" height="32" alt="GEO Platform" /> [GEO Platform](https://github.com/BXR7/AI-Discovery-Monitor-GEO-Platform)
+
+Multi-model AI discovery and visibility monitoring with citations and share of voice.
+
+<sub>OpenAI · Claude · Gemini · LangChain · PostgreSQL · Redis</sub>
+
+[View repository →](https://github.com/BXR7/AI-Discovery-Monitor-GEO-Platform)
+
+### <img src="./assets/icons/sapa.svg" width="32" height="32" alt="SAPA" /> Smart Amazon Product Analyzer
+
+ML-powered product intelligence combining forecasting, NLP, competitive analysis, and finance.
+
+<sub>SAPA · Private project · Repository not public</sub>
+
+**Private repository**
+
+### <img src="./assets/icons/risk-gateway.svg" width="32" height="32" alt="Risk gateway" /> [AI Risk Assessment Gateway](https://github.com/BXR7/ai-risk-assessment-gateway)
+
+Semantic risk classification and policy-based routing for AI requests.
+
+<sub>Python · FastAPI · AI Security</sub>
+
+[View repository →](https://github.com/BXR7/ai-risk-assessment-gateway)
+
+### <img src="./assets/icons/sawtshield.svg" width="32" height="32" alt="Audio waveform" /> [SawtShield](https://github.com/BXR7/SawtShield)
+
+Speech-only audio deepfake detection with an AASIST-inspired architecture.
+
+<sub>AASIST · PyTorch · Audio ML · FastAPI</sub>
+
+[View repository →](https://github.com/BXR7/SawtShield)
+
+### <img src="./assets/icons/fake-review.svg" width="32" height="32" alt="Review detection" /> [Fake Review Detection](https://github.com/BXR7/Fake-Review-Detection)
+
+RoBERTa-based fake-review detection with domain-adversarial training and linguistic features.
+
+<sub>Transformers · RoBERTa · NLP · FastAPI</sub>
+
+[View repository →](https://github.com/BXR7/Fake-Review-Detection)
 
 <table>
   <tr>
