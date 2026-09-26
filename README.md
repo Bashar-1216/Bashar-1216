@@ -7,12 +7,12 @@
 </div>
 
 <p align="center">
-  <a href="#about-me"><img src="https://img.shields.io/badge/LLM%20Engineering-1b1850?style=for-the-badge&logo=openai&logoColor=white&labelColor=0b1020" alt="LLM Engineering" /></a>&nbsp;
-  <a href="#about-me"><img src="https://img.shields.io/badge/RAG-082c4a?style=for-the-badge&logo=qdrant&logoColor=28cfff&labelColor=0b1020" alt="RAG" /></a>&nbsp;
-  <a href="#about-me"><img src="https://img.shields.io/badge/AI%20Agents-35142f?style=for-the-badge&logo=robotframework&logoColor=ed62c9&labelColor=0b1020" alt="AI Agents" /></a>&nbsp;
-  <a href="#about-me"><img src="https://img.shields.io/badge/Multimodal%20AI-49321a?style=for-the-badge&logo=googlelens&logoColor=e9a13f&labelColor=0b1020" alt="Multimodal AI" /></a>&nbsp;
-  <a href="#about-me"><img src="https://img.shields.io/badge/Evaluation-07383a?style=for-the-badge&logo=prometheus&logoColor=35d6c1&labelColor=0b1020" alt="Evaluation" /></a>&nbsp;
-  <a href="#about-me"><img src="https://img.shields.io/badge/AI%20Infrastructure-102d4a?style=for-the-badge&logo=docker&logoColor=328bce&labelColor=0b1020" alt="AI Infrastructure" /></a>
+  <a href="#about-me"><img src="https://img.shields.io/badge/LLM%20Engineering-1b1850?style=flat-square&logo=openai&logoColor=white&labelColor=0b1020" alt="LLM Engineering" /></a>&nbsp;
+  <a href="#about-me"><img src="https://img.shields.io/badge/RAG-082c4a?style=flat-square&logo=qdrant&logoColor=28cfff&labelColor=0b1020" alt="RAG" /></a>&nbsp;
+  <a href="#about-me"><img src="https://img.shields.io/badge/AI%20Agents-35142f?style=flat-square&logo=robotframework&logoColor=ed62c9&labelColor=0b1020" alt="AI Agents" /></a>&nbsp;
+  <a href="#about-me"><img src="https://img.shields.io/badge/Multimodal%20AI-49321a?style=flat-square&logo=googlelens&logoColor=e9a13f&labelColor=0b1020" alt="Multimodal AI" /></a>&nbsp;
+  <a href="#about-me"><img src="https://img.shields.io/badge/Evaluation-07383a?style=flat-square&logo=prometheus&logoColor=35d6c1&labelColor=0b1020" alt="Evaluation" /></a>&nbsp;
+  <a href="#about-me"><img src="https://img.shields.io/badge/AI%20Infrastructure-102d4a?style=flat-square&logo=docker&logoColor=328bce&labelColor=0b1020" alt="AI Infrastructure" /></a>
 </p>
 
 <table>
