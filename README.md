@@ -1,236 +1,96 @@
 <div align="center">
 
-# ✦ Bashar Al-Muntaser
+<img src="./assets/hero.svg" alt="Bashar Al-Muntaser — LLM Engineer" width="100%" />
 
-### `LLM ENGINEER` • `GENERATIVE AI` • `RAG` • `AI AGENTS` • `MULTIMODAL AI`
-
-**Building reliable, production-oriented AI systems — from idea to real-world impact.**
-
-[![GitHub](https://img.shields.io/badge/GitHub-Bashar--1216-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bashar-1216)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bashar_Al--Muntaser-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bashar-almuntaser)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4C89?style=for-the-badge&logo=gmail&logoColor=white)](mailto:almuntaserbashar@gmail.com)
-![Location](https://img.shields.io/badge/Sana'a%2C_Yemen-111827?style=for-the-badge&logo=googlemaps&logoColor=7DD3FC)
-
-<br/>
-
-![LLM Engineering](https://img.shields.io/badge/🧠_LLM_Engineering-6D5DFB?style=for-the-badge)
-![RAG](https://img.shields.io/badge/🔎_RAG-0088CC?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/🤖_AI_Agents-D946EF?style=for-the-badge)
-![Multimodal AI](https://img.shields.io/badge/✨_Multimodal_AI-F59E0B?style=for-the-badge)
-![Evaluation](https://img.shields.io/badge/🛡️_Evaluation-00B8A9?style=for-the-badge)
-![AI Infrastructure](https://img.shields.io/badge/⚙️_AI_Infrastructure-0284C7?style=for-the-badge)
+[GitHub](https://github.com/Bashar-1216) · [LinkedIn](https://linkedin.com/in/bashar-almuntaser) · [Email](mailto:almuntaserbashar@gmail.com)
 
 </div>
 
----
+<img src="./assets/pill-strip.svg" alt="Specialization: LLM Engineering, RAG, AI Agents, Multimodal AI, Evaluation, and AI Infrastructure" width="100%" />
 
-<table>
-<tr>
-<td width="64%" valign="top">
+## Specialization
 
-## 👤 About Me
+**Multi-model LLM orchestration** · **RAG** · **Structured generation** · **AI agents** · **LLM evaluation** · **Observability** · **Production reliability** · **Arabic NLP** · **Multimodal retrieval**
 
-I'm an **LLM Engineer** focused on designing reliable generative-AI systems, multi-model orchestration, retrieval-augmented generation, agentic systems, evaluation, observability, and production deployment.
+## About
 
-I enjoy building AI systems that solve real problems, with strong interests in **Arabic NLP, multimodal AI, AI infrastructure, structured generation, hallucination detection, and production reliability**.
+I’m an **LLM Engineer** focused on building reliable generative-AI systems: from orchestration and retrieval to evaluation, observability, and production integration. My work explores how AI systems can become more useful, testable, and dependable across text, audio, image, and video.
 
-**💡 Problem Solver** • **🚀 Build & Ship** • **🤝 Open to Opportunities** • **📖 Continuous Learner**
+Based in **Sana'a, Yemen**.
 
-</td>
-<td width="36%" valign="top">
+## Snapshot
 
-## 🎓 Snapshot
+> **AI Engineer Intern — Sofa**
+> `Aug 2026 – Present` · Multi-model routing · evaluation · AI security · memory architectures · production integration
+>
+> **B.Sc. Artificial Intelligence**
+> Emirates International University · `2022 – 2026`
 
-**B.Sc. Artificial Intelligence**  
-Emirates International University  
-`2022 — 2026`
+## Technical Stack
 
-### 💼 AI Engineer Intern — Sofa
-`Aug 2026 — Present`
+<img src="./assets/stack.svg" alt="Grouped technical stack: build, serve, retrieve, model, and operate layers" width="100%" />
 
-Multi-model routing • evaluation • AI security • memory architectures • production integration
+## Featured Projects
 
-</td>
-</tr>
-</table>
+The projects below are selected from my public repositories. Each card is a visual index; the repository link remains directly below it for dependable navigation on GitHub.
 
----
+<a href="https://github.com/Bashar-1216/spatio-temporal-video-rag"><img src="./assets/project-video-rag.svg" alt="Spatio-Temporal Multimodal Video RAG — precise video-moment retrieval across vision, speech, OCR, space, and time" width="100%" /></a>
 
-## ⚙️ Tech Stack
+[View repository →](https://github.com/Bashar-1216/spatio-temporal-video-rag)
 
-<div align="center">
+<a href="https://github.com/Bashar-1216/AI-Discovery-Monitor-GEO-Platform"><img src="./assets/project-geo.svg" alt="AI Discovery Monitor / GEO Platform — AI visibility monitoring" width="100%" /></a>
 
-<img src="https://skillicons.dev/icons?i=python,ts,pytorch,tensorflow,fastapi,react,nextjs,docker,postgres,redis,mongodb,elasticsearch,linux,git&perline=14" />
+[View repository →](https://github.com/Bashar-1216/AI-Discovery-Monitor-GEO-Platform)
 
-<br/><br/>
+<a href="https://github.com/Bashar-1216/Classifiers-"><img src="./assets/project-gateway.svg" alt="AI Risk Assessment Gateway — AI security and fail-closed routing" width="100%" /></a>
 
-![RAG](https://img.shields.io/badge/RAG-6D5DFB?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![LLaMA](https://img.shields.io/badge/LLaMA-0467DF?style=flat-square&logo=meta&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
-![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square)
-![Langfuse](https://img.shields.io/badge/Langfuse-111827?style=flat-square)
+[View repository →](https://github.com/Bashar-1216/Classifiers-)
 
-</div>
+<a href="https://github.com/Bashar-1216/SawtShield"><img src="./assets/project-sawtshield.svg" alt="SawtShield — speech-only audio deepfake detection" width="100%" /></a>
 
----
+[View repository →](https://github.com/Bashar-1216/SawtShield)
 
-# 🗂️ Featured Projects
+<a href="https://github.com/Bashar-1216/Fake-Review-Detection"><img src="./assets/project-fake-review.svg" alt="Fake Review Detection — RoBERTa and domain-adversarial training" width="100%" /></a>
 
-<table>
-<tr>
-<td width="33%" valign="top">
+[View repository →](https://github.com/Bashar-1216/Fake-Review-Detection)
 
-### 🎬 #1 Spatio-Temporal Multimodal Video RAG
+<a href="https://github.com/Bashar-1216/Financial-Fraud-Detection"><img src="./assets/project-fraud.svg" alt="Financial Fraud Detection — streaming ML with PySpark, Kafka, and MongoDB" width="100%" /></a>
 
-**Precise video moment retrieval across vision, speech, OCR, space & time.**
+[View repository →](https://github.com/Bashar-1216/Financial-Fraud-Detection)
 
-`Whisper` `Qwen2.5-VL` `BGE-M3`  
-`Qdrant` `PyTorch` `FastAPI`
+[Explore all public repositories →](https://github.com/Bashar-1216?tab=repositories)
 
-Combines multimodal ingestion, clip/frame retrieval, reranking, spatial verification, and temporal reasoning.
-
-**[🚀 View Repository →](https://github.com/Bashar-1216/spatio-temporal-video-rag)**
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🌐 #2 GEO Platform
-
-**Multi-model AI discovery & monitoring platform with an 8-stage asynchronous analysis pipeline.**
-
-`OpenAI` `Claude` `Gemini`  
-`LangChain` `PostgreSQL` `Redis`
-
-Entity resolution, hallucination verification, prompt versioning, drift monitoring, and LLM observability.
-
-**[🚀 View Repository →](https://github.com/Bashar-1216/AI-Discovery-Monitor-GEO-Platform)**
-
-</td>
-
-<td width="33%" valign="top">
-
-### 📦 #3 Smart Amazon Product Analyzer
-
-**ML-powered product intelligence combining forecasting, NLP, competitive analysis & financial modeling.**
-
-`LightGBM` `BERT` `LLaMA-3`  
-`FastAPI` `Celery` `TimescaleDB`
-
-Demand forecasting, review intelligence, FBA financial logic, automated decision rules, and distributed services.
-
-**🔒 Private Repository**
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🛡️ AI Risk Assessment Gateway
-
-Semantic risk classification and policy-based routing for AI requests.
-
-`Python` `FastAPI` `AI Security`
-
-**[Repository →](https://github.com/Bashar-1216/Classifiers-)**
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🎧 SawtShield
-
-AI-generated speech detection using deep learning and spectro-temporal features.
-
-`PyTorch` `Audio ML` `FastAPI`
-
-**[Repository →](https://github.com/Bashar-1216/SawtShield)**
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🔍 Fake Review Detection
-
-Transformer-based fake-review detection with domain-adversarial learning.
-
-`Transformers` `RoBERTa` `NLP`
-
-**[Repository →](https://github.com/Bashar-1216/Fake-Review-Detection)**
-
-</td>
-</tr>
-</table>
-
-<div align="right">
-
-**[View all repositories →](https://github.com/Bashar-1216?tab=repositories)**
-
-</div>
-
----
-
-<table>
-<tr>
-<td width="65%" valign="top">
-
-## 💼 Experience
+## Experience
 
 ### AI Engineer Intern — Sofa
-`Aug 2026 — Present`
 
-- 🧠 Intelligent request classification & dynamic LLM selection
-- 🔀 Multi-model routing with **LiteLLM**
-- 📊 Model evaluation across quality, latency, reliability & cost
-- 🛡️ AI gateway security & benchmarking
-- 🧪 Reproducible evaluation datasets and experimental pipelines
-- 🗃️ Memory architecture evaluation: **PostgreSQL/pgvector, Mem0, SurrealDB**
-- 🐳 Production integration with Python, REST APIs, Docker & LLM services
+`Aug 2026 – Present`
 
-</td>
+- Intelligent request classification and dynamic LLM selection
+- Multi-model routing with LiteLLM
+- Model evaluation across quality, latency, reliability, and cost
+- AI gateway security and benchmarking
+- Reproducible evaluation datasets and experimental pipelines
+- Memory architecture evaluation across PostgreSQL/pgvector, Mem0, and SurrealDB
+- Production integration with Python, REST APIs, Docker, and LLM services
 
-<td width="35%" valign="top">
+**Selected private work:** Smart Amazon Product Analyzer (SAPA) — kept private; no public repository link is provided.
 
-## 🏅 Certifications
+## Education & Certifications
 
-**✦ Claude 101**  
-Anthropic · Jun 2026
+**B.Sc. Artificial Intelligence**
+Emirates International University · `2022 – 2026`
 
-**✦ Introduction to Agent Skills**  
-Anthropic · Jul 2026
+- **Claude 101** — Anthropic
+- **Introduction to Agent Skills** — Anthropic
+- **Introduction to Generative AI** — Google
 
-**✦ Introduction to Generative AI**  
-Google · Jun 2026
+## Connect
 
-</td>
-</tr>
-</table>
-
----
+If you’re working on **LLM systems, RAG, AI agents, multimodal applications, evaluation, or production AI infrastructure**, I’d be glad to connect.
 
 <div align="center">
 
-## ✈️ Let's Connect
-
-I'm interested in opportunities involving **LLM systems, RAG, AI agents, multimodal applications, evaluation, and production AI infrastructure.**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bashar-almuntaser)
-
-[![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4C89?style=for-the-badge&logo=gmail&logoColor=white)](mailto:almuntaserbashar@gmail.com)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bashar-1216)
-
-<br/>
-
-> **“Building AI systems that are not only intelligent — but observable, testable and reliable.”**
-
-`LLM Engineering` • `RAG` • `AI Agents` • `Multimodal AI` • `AI Infrastructure`
+[LinkedIn](https://linkedin.com/in/bashar-almuntaser) · [Email](mailto:almuntaserbashar@gmail.com) · [GitHub](https://github.com/Bashar-1216)
 
 </div>
