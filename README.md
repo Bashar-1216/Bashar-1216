@@ -2,39 +2,55 @@
 
 <img src="./assets/hero-final.png" alt="Bashar Al-Muntaser — LLM Engineer at a glowing AI workstation" width="100%" />
 
-[GitHub](https://github.com/Bashar-1216) · [LinkedIn](https://linkedin.com/in/bashar-almuntaser) · [Email](mailto:almuntaserbashar@gmail.com)
+[◉ GitHub](https://github.com/Bashar-1216) · [in LinkedIn](https://linkedin.com/in/bashar-almuntaser) · [✉ Email](mailto:almuntaserbashar@gmail.com)
 
 </div>
 
-<img src="./assets/pill-strip.svg" alt="Specialization: LLM Engineering, RAG, AI Agents, Multimodal AI, Evaluation, and AI Infrastructure" width="100%" />
+<img src="./assets/pill-strip.svg" alt="LLM Engineering, RAG, AI Agents, Multimodal AI, Evaluation, and AI Infrastructure" width="100%" />
 
-## Specialization
+<table>
+<tr>
+<td width="66%" valign="top">
 
-**Multi-model LLM orchestration** · **RAG** · **Structured generation** · **AI agents** · **LLM evaluation** · **Observability** · **Production reliability** · **Arabic NLP** · **Multimodal retrieval**
+## 👤 About Me
 
-## About
+I’m an **LLM Engineer** focused on designing reliable generative-AI systems: multi-model orchestration, retrieval-augmented generation, agentic systems, evaluation, observability, and production deployment.
 
-I’m an **LLM Engineer** focused on building reliable generative-AI systems: from orchestration and retrieval to evaluation, observability, and production integration. My work explores how AI systems can become more useful, testable, and dependable across text, audio, image, and video.
+I enjoy building AI systems that solve real problems, with strong interests in **Arabic NLP, multimodal AI, structured generation, AI infrastructure, and production reliability**.
 
-Based in **Sana'a, Yemen**.
+| | | |
+|:---:|:---|:---|
+| 💡 | **Problem Solver** | Turns ambiguous problems into useful systems |
+| 🚀 | **Build & Ship** | From experiment to production integration |
+| 🤝 | **Open to Opportunities** | LLM systems, RAG, agents, and multimodal AI |
+| 📖 | **Continuous Learner** | Evaluation, observability, and reliable AI |
 
-## Snapshot
+</td>
+<td width="34%" valign="top">
 
-> **AI Engineer Intern — Sofa**
-> `Aug 2026 – Present` · Multi-model routing · evaluation · AI security · memory architectures · production integration
->
-> **B.Sc. Artificial Intelligence**
-> Emirates International University · `2022 – 2026`
+## 🎓 Snapshot
 
-## Technical Stack
+**B.Sc. Artificial Intelligence**<br />
+Emirates International University<br />
+`2022 – 2026`
+
+### 💼 AI Engineer Intern — Sofa
+
+`Aug 2026 – Present`
+
+Multi-model routing · evaluation · AI security · memory architectures · production integration
+
+</td>
+</tr>
+</table>
+
+## ⚙️ Technical Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,ts,pytorch,tensorflow,fastapi,react,nextjs,docker,postgres,redis,mongodb,elasticsearch,linux,git&perline=14" alt="Python, TypeScript, PyTorch, TensorFlow, FastAPI, React, Next.js, Docker, PostgreSQL, Redis, MongoDB, Elasticsearch, Linux, and Git" />
+<img src="./assets/stack-icons.svg" alt="Python, TypeScript, PyTorch, TensorFlow, FastAPI, React, Next.js, Docker, PostgreSQL, Redis, MongoDB, Elasticsearch, Linux, and Git" width="100%" />
 
-<br />
-
-<img src="https://skillicons.dev/icons?i=aws,gcp,github,gitlab,anaconda,opencv&perline=12" alt="Cloud and engineering tools" />
+<img src="./assets/stack-tools.svg" alt="AWS, Google Cloud, GitHub, GitLab, Anaconda, and OpenCV" width="70%" />
 
 </div>
 
@@ -42,54 +58,69 @@ Based in **Sana'a, Yemen**.
 |:---|:---|:---|
 | Python · TypeScript · FastAPI · React · Next.js · Docker | Qdrant · pgvector · Elasticsearch · Redis · Langfuse | OpenAI · Claude · Gemini · LLaMA · Ollama · LangChain |
 
-## Featured Projects
+## 🗂️ Featured Projects
 
-The visual grid follows the reference layout. Repository links are listed separately so navigation remains reliable on GitHub and on mobile.
+The project cards follow the reference composition: strong color accents, distinct icons, concise value propositions, and a 3×2 visual grid. Repository links remain available in the table below for reliable navigation.
 
 <img src="./assets/projects-grid.svg" alt="Six featured project cards: Spatio-Temporal Video RAG, GEO Platform, AI Risk Gateway, SawtShield, Fake Review Detection, and Financial Fraud Detection" width="100%" />
 
-| Project | Repository |
-|:---|:---|
-| Spatio-Temporal Multimodal Video RAG | [Open repository →](https://github.com/Bashar-1216/spatio-temporal-video-rag) |
-| AI Discovery Monitor / GEO Platform | [Open repository →](https://github.com/Bashar-1216/AI-Discovery-Monitor-GEO-Platform) |
-| AI Risk Assessment Gateway | [Open repository →](https://github.com/Bashar-1216/Classifiers-) |
-| SawtShield | [Open repository →](https://github.com/Bashar-1216/SawtShield) |
-| Fake Review Detection | [Open repository →](https://github.com/Bashar-1216/Fake-Review-Detection) |
-| Financial Fraud Detection | [Open repository →](https://github.com/Bashar-1216/Financial-Fraud-Detection) |
+| Project | Focus | Repository |
+|:---|:---|:---|
+| **Spatio-Temporal Multimodal Video RAG** | Vision, speech, OCR, spatial grounding, and temporal reasoning | [Open repository →](https://github.com/Bashar-1216/spatio-temporal-video-rag) |
+| **AI Discovery Monitor / GEO Platform** | AI visibility monitoring, citations, sentiment, and share of voice | [Open repository →](https://github.com/Bashar-1216/AI-Discovery-Monitor-GEO-Platform) |
+| **AI Risk Assessment Gateway** | Semantic intent, context, metadata, policy routing, and fail-closed isolation | [Open repository →](https://github.com/Bashar-1216/Classifiers-) |
+| **SawtShield** | Speech-only audio deepfake detection with an AASIST-inspired architecture | [Open repository →](https://github.com/Bashar-1216/SawtShield) |
+| **Fake Review Detection** | RoBERTa, domain-adversarial training, linguistic features, and FastAPI | [Open repository →](https://github.com/Bashar-1216/Fake-Review-Detection) |
+| **Financial Fraud Detection** | PySpark, Kafka, MongoDB, feature engineering, and real-time processing | [Open repository →](https://github.com/Bashar-1216/Financial-Fraud-Detection) |
 
 [Explore all public repositories →](https://github.com/Bashar-1216?tab=repositories)
 
-## Experience
+## 💼 Experience & Certifications
+
+<table>
+<tr>
+<td width="65%" valign="top">
 
 ### AI Engineer Intern — Sofa
 
 `Aug 2026 – Present`
 
 - Intelligent request classification and dynamic LLM selection
-- Multi-model routing with LiteLLM
+- Multi-model routing with **LiteLLM**
 - Model evaluation across quality, latency, reliability, and cost
 - AI gateway security and benchmarking
 - Reproducible evaluation datasets and experimental pipelines
-- Memory architecture evaluation across PostgreSQL/pgvector, Mem0, and SurrealDB
+- Memory architecture evaluation across **PostgreSQL/pgvector, Mem0, and SurrealDB**
 - Production integration with Python, REST APIs, Docker, and LLM services
 
 **Selected private work:** Smart Amazon Product Analyzer (SAPA) — kept private; no public repository link is provided.
 
-## Education & Certifications
+</td>
+<td width="35%" valign="top">
 
-**B.Sc. Artificial Intelligence**
-Emirates International University · `2022 – 2026`
+### 🏅 Certifications
 
-- **Claude 101** — Anthropic
-- **Introduction to Agent Skills** — Anthropic
-- **Introduction to Generative AI** — Google
+**✦ Claude 101**<br />
+Anthropic · Jun 2026
 
-## Connect
+**✦ Introduction to Agent Skills**<br />
+Anthropic · Jul 2026
 
-If you’re working on **LLM systems, RAG, AI agents, multimodal applications, evaluation, or production AI infrastructure**, I’d be glad to connect.
+**✦ Introduction to Generative AI**<br />
+Google · Jun 2026
+
+</td>
+</tr>
+</table>
+
+## ✈️ Let’s Connect
+
+I’m interested in opportunities involving **LLM systems, RAG, AI agents, multimodal applications, evaluation, and production AI infrastructure**.
 
 <div align="center">
 
-[LinkedIn](https://linkedin.com/in/bashar-almuntaser) · [Email](mailto:almuntaserbashar@gmail.com) · [GitHub](https://github.com/Bashar-1216)
+[▣ LinkedIn](https://linkedin.com/in/bashar-almuntaser) · [✉ Email](mailto:almuntaserbashar@gmail.com) · [◉ GitHub](https://github.com/Bashar-1216)
+
+`LLM Engineering` · `RAG` · `AI Agents` · `Multimodal AI` · `AI Infrastructure`
 
 </div>
