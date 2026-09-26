@@ -28,35 +28,34 @@ Based in **Sana'a, Yemen**.
 
 ## Technical Stack
 
-<img src="./assets/stack.svg" alt="Grouped technical stack: build, serve, retrieve, model, and operate layers" width="100%" />
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,ts,pytorch,tensorflow,fastapi,react,nextjs,docker,postgres,redis,mongodb,elasticsearch,linux,git&perline=14" alt="Python, TypeScript, PyTorch, TensorFlow, FastAPI, React, Next.js, Docker, PostgreSQL, Redis, MongoDB, Elasticsearch, Linux, and Git" />
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,github,gitlab,anaconda,opencv&perline=12" alt="Cloud and engineering tools" />
+
+</div>
+
+| Build | Retrieve & observe | Model layer |
+|:---|:---|:---|
+| Python · TypeScript · FastAPI · React · Next.js · Docker | Qdrant · pgvector · Elasticsearch · Redis · Langfuse | OpenAI · Claude · Gemini · LLaMA · Ollama · LangChain |
 
 ## Featured Projects
 
-The projects below are selected from my public repositories. Each card is a visual index; the repository link remains directly below it for dependable navigation on GitHub.
+The visual grid follows the reference layout. Repository links are listed separately so navigation remains reliable on GitHub and on mobile.
 
-<a href="https://github.com/Bashar-1216/spatio-temporal-video-rag"><img src="./assets/project-video-rag.svg" alt="Spatio-Temporal Multimodal Video RAG — precise video-moment retrieval across vision, speech, OCR, space, and time" width="100%" /></a>
+<img src="./assets/projects-grid.svg" alt="Six featured project cards: Spatio-Temporal Video RAG, GEO Platform, AI Risk Gateway, SawtShield, Fake Review Detection, and Financial Fraud Detection" width="100%" />
 
-[View repository →](https://github.com/Bashar-1216/spatio-temporal-video-rag)
-
-<a href="https://github.com/Bashar-1216/AI-Discovery-Monitor-GEO-Platform"><img src="./assets/project-geo.svg" alt="AI Discovery Monitor / GEO Platform — AI visibility monitoring" width="100%" /></a>
-
-[View repository →](https://github.com/Bashar-1216/AI-Discovery-Monitor-GEO-Platform)
-
-<a href="https://github.com/Bashar-1216/Classifiers-"><img src="./assets/project-gateway.svg" alt="AI Risk Assessment Gateway — AI security and fail-closed routing" width="100%" /></a>
-
-[View repository →](https://github.com/Bashar-1216/Classifiers-)
-
-<a href="https://github.com/Bashar-1216/SawtShield"><img src="./assets/project-sawtshield.svg" alt="SawtShield — speech-only audio deepfake detection" width="100%" /></a>
-
-[View repository →](https://github.com/Bashar-1216/SawtShield)
-
-<a href="https://github.com/Bashar-1216/Fake-Review-Detection"><img src="./assets/project-fake-review.svg" alt="Fake Review Detection — RoBERTa and domain-adversarial training" width="100%" /></a>
-
-[View repository →](https://github.com/Bashar-1216/Fake-Review-Detection)
-
-<a href="https://github.com/Bashar-1216/Financial-Fraud-Detection"><img src="./assets/project-fraud.svg" alt="Financial Fraud Detection — streaming ML with PySpark, Kafka, and MongoDB" width="100%" /></a>
-
-[View repository →](https://github.com/Bashar-1216/Financial-Fraud-Detection)
+| Project | Repository |
+|:---|:---|
+| Spatio-Temporal Multimodal Video RAG | [Open repository →](https://github.com/Bashar-1216/spatio-temporal-video-rag) |
+| AI Discovery Monitor / GEO Platform | [Open repository →](https://github.com/Bashar-1216/AI-Discovery-Monitor-GEO-Platform) |
+| AI Risk Assessment Gateway | [Open repository →](https://github.com/Bashar-1216/Classifiers-) |
+| SawtShield | [Open repository →](https://github.com/Bashar-1216/SawtShield) |
+| Fake Review Detection | [Open repository →](https://github.com/Bashar-1216/Fake-Review-Detection) |
+| Financial Fraud Detection | [Open repository →](https://github.com/Bashar-1216/Financial-Fraud-Detection) |
 
 [Explore all public repositories →](https://github.com/Bashar-1216?tab=repositories)
 
